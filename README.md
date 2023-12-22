@@ -1,0 +1,2 @@
+# bleslint
+Bleverse ESLint Config
